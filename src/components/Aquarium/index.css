@@ -1,0 +1,17 @@
+.aquarium {
+  background: #e3f2fd;
+  border: 8px solid #666666;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 500px;
+  margin: 2rem 2rem 6rem;
+  width: calc(100% - 4rem);
+}
+
+.aquarium img {
+  flex: 1;
+  margin: 0.5rem;
+  max-width: 250px;
+}
